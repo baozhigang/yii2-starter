@@ -1,5 +1,6 @@
 <?php
 return [
+    'timeZone' => 'Asia/Shanghai',
     'aliases' => [
         '@bower' => '@node_modules',
         '@npm'   => '@node_modules',
